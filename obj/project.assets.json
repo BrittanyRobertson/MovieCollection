@@ -1199,11 +1199,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/brittany/Projects/MovieCollection/MovieCollection/MovieCollection.csproj",
+      "projectUniqueName": "/Users/brittany/Documents/GitHub/MovieCollection/MovieCollection/MovieCollection/MovieCollection.csproj",
       "projectName": "MovieCollection",
-      "projectPath": "/Users/brittany/Projects/MovieCollection/MovieCollection/MovieCollection.csproj",
+      "projectPath": "/Users/brittany/Documents/GitHub/MovieCollection/MovieCollection/MovieCollection/MovieCollection.csproj",
       "packagesPath": "/Users/brittany/.nuget/packages/",
-      "outputPath": "/Users/brittany/Projects/MovieCollection/MovieCollection/obj/",
+      "outputPath": "/Users/brittany/Documents/GitHub/MovieCollection/MovieCollection/MovieCollection/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/brittany/.config/NuGet/NuGet.Config"

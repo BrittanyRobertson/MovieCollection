@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g4oXAr7iOTcWyv68hiQcNkcky/mJMl2Qp4uUKYVISM7U5rUyT9o1AabnDY8qhfvOjrRKpmuFiMsfJrXb9D939w==",
+  "dgSpecHash": "033SGHpqvNNwpPHPpWjKliIEuoocvB58XQ7v9XyvBFER33ZzpOEdS7r4vFNcQW0bNZO5z02QKdYn6la5Rc5vxw==",
   "success": true,
-  "projectFilePath": "/Users/brittany/Projects/MovieCollection/MovieCollection/MovieCollection.csproj",
+  "projectFilePath": "/Users/brittany/Documents/GitHub/MovieCollection/MovieCollection/MovieCollection/MovieCollection.csproj",
   "expectedPackageFiles": [
     "/Users/brittany/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "/Users/brittany/.nuget/packages/microsoft.bcl.hashcode/1.1.1/microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
